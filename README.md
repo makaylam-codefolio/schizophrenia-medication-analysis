@@ -1,45 +1,45 @@
-# EEG Schizophrenia Classification
+# Schizophrenia Medication Analysis
 
-Machine learning and deep learning workflows applied to EEG data for schizophrenia-related classification, with emphasis on model evaluation, data integrity, and reproducibility.
+Healthcare-focused data analysis combining statistical methods and sentiment analysis to explore treatment patterns and patient experience.
 
 ---
 
 ## Overview
 
-This project explores the use of EEG data for schizophrenia-related classification using both traditional machine learning and deep learning approaches.
+This project analyzes schizophrenia medications using a combination of statistical analysis and patient-reported sentiment data.
 
-The work focuses on building and evaluating models while addressing key challenges such as:
-- subject-level data leakage
-- dataset variation
-- model comparison across architectures
+The goal is to explore:
+- treatment patterns  
+- variation across medications  
+- patient experience signals  
 
 ---
 
 ## Objectives
 
-- Develop classification models using EEG datasets
-- Compare machine learning and deep learning approaches
-- Ensure evaluation rigor and avoid data leakage
-- Assess model performance across datasets
+- Perform exploratory data analysis on medication data  
+- Conduct statistical comparisons across treatments  
+- Analyze sentiment from patient-reported data  
+- Interpret findings within a healthcare context  
 
 ---
 
 ## Methods
 
-- Data preprocessing and feature preparation for EEG signals  
-- Machine learning models (e.g., scikit-learn classifiers)  
-- Deep learning models (TensorFlow / PyTorch)  
-- Train/test splitting with subject-level controls  
-- Model evaluation using appropriate metrics  
+- Data cleaning and preprocessing  
+- Descriptive statistics and visualization  
+- Hypothesis testing  
+- Sentiment analysis workflows  
+- Comparative analysis across medication groups  
 
 ---
 
 ## Key Highlights
 
-- Applied both ML and DL approaches to EEG data  
-- Addressed subject-level leakage concerns  
-- Compared multiple model types across datasets  
-- Emphasized reproducible and structured workflows  
+- Combined quantitative and qualitative analysis  
+- Integrated sentiment analysis with healthcare data  
+- Focused on real-world treatment interpretation  
+- Structured multi-notebook analytical workflow  
 
 ---
 
@@ -47,8 +47,8 @@ The work focuses on building and evaluating models while addressing key challeng
 
 - Python  
 - pandas, NumPy  
-- scikit-learn  
-- TensorFlow / PyTorch  
+- statistical analysis techniques  
+- NLP / sentiment analysis  
 - Jupyter Notebooks  
 
 ---
