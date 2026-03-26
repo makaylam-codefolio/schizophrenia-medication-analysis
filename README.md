@@ -54,3 +54,17 @@ The goal is to explore:
 ---
 
 ## Project Structure
+
+  -analysis/statistics/sentiment/notebooks
+  
+---
+
+## Notes
+
+Findings are exploratory and intended for analytical insight rather than clinical decision-making.
+
+---
+
+## Repository
+
+🔗 https://github.com/makaylam-codefolio/schizophrenia-medication-analysis
